@@ -24,8 +24,7 @@ A Library Management System (LMS) is a software application designed to automate
 - **Star UML:** Unified Modeling Language (UML) tool for designing and documenting software systems.
 - **Mongo DB Compass:** GUI tool for MongoDB database management and administration.
 - **Postman:** API testing tool for testing and debugging API endpoints.
-- **Figma:** Design tool for creating user interface (UI) mockups and prototypes.
-- **MS Word:** Word processing software for documentation and report writing.
+
 
 ### 2.2 Technology
 
@@ -35,7 +34,7 @@ A Library Management System (LMS) is a software application designed to automate
 - **React JS:** JavaScript library for building user interfaces, particularly for single-page applications.
 - **Node JS:** JavaScript runtime environment for server-side development.
 - **Mongo DB:** NoSQL database for storing and managing data in a flexible and scalable manner.
-- **Node Mailer:** Module for sending email notifications and managing email communication within the application.
+-
 
 ## 3. Instruction to Run Project
 
